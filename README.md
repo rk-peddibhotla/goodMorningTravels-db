@@ -30,6 +30,7 @@ bookingdetails | sno, category, amount
 
 ### Conceptual Model ###
 
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![Alt text](image_url)
+
 
 
