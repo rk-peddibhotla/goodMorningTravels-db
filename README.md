@@ -11,3 +11,25 @@ Key Features:
 
 This system reduces data redundancy, improves data retrieval efficiency, and provides a reliable database solution for the company's operations.
 
+
+
+## List of Entities and Attributes ##
+
+Entity  | Attributes
+------------- | -------------
+Bus  | Id, name, from, to, departure time
+Passenger  | Id, name, dob, place, email
+ticket | sno ,total, available, fare
+cargo | sno, fare
+bill | billno ,date, category, fare
+driver | Id, name, dob, salary
+worker | Id, name, dob, salary
+bookingdetails | sno, category, amount
+
+
+
+### Conceptual Model ###
+
+Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+
