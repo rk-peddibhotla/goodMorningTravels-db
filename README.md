@@ -15,6 +15,7 @@ This system reduces data redundancy, improves data retrieval efficiency, and pro
 
 ## List of Entities and Attributes ##
 
+
 Entity  | Attributes
 ------------- | -------------
 Bus  | Id, name, from, to, departure time
