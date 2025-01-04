@@ -30,7 +30,7 @@ bookingdetails | sno, category, amount
 
 ### Conceptual Model ###
 
-![Alt text](image_url)
+![Alt text](https://github.com/rk-peddibhotla/GoodMorningTravels_DB/blob/main/erModel.png)
 
 
 
